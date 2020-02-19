@@ -5,7 +5,7 @@ We save the Wiki data files and the segmented output file. The pre-trained model
 
 See detail write up here:
 
-https://medium.com/@phylypo/khmer-language-model-using-ulmfit-and-a-survey-of-state-of-the-art-language-models-f8f1ca2b12c2
+https://medium.com/@phylypo/khmer-language-model-using-ulmfit-b0f8ca4e15be
 
 We created a web interface where you can test out the model's next words prediction. See:
 
